@@ -1,0 +1,7 @@
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\bin\Debug\XmlAndJson.exe.config
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\bin\Debug\XmlAndJson.exe
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\bin\Debug\XmlAndJson.pdb
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\obj\Debug\XmlAndJson.csprojResolveAssemblyReference.cache
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\obj\Debug\XmlAndJson.csproj.CoreCompileInputs.cache
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\obj\Debug\XmlAndJson.exe
+C:\Users\Ильяс Сабитов\source\XmlAndJson\XmlAndJson\obj\Debug\XmlAndJson.pdb
